@@ -39,7 +39,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## Commit Type
+##⭐ Commit Type
 
 feat 新功能
 fix 修复 bug
@@ -51,3 +51,44 @@ test 增加测试，包括单元测试、集成测试等
 build 构建系统或外部依赖项的更改
 ci 自动化流程配置或脚本修改
 revert 回退某个commit提交
+
+## ⭐ Features
+
+### 🐭 Frameworks
+
+- **[Next.js](https://nextjs.org/)** - The React Framework for the Web (with **App Directory**)
+
+### 🐮 Platforms
+
+- **[Vercel](https://vercel.com/)** – Deploy your Next.js app with ease
+
+### 🐯 Enterprise Features
+
+- **[i18n](https://nextjs.org/docs/app/building-your-application/routing/internationalization)** - Support for internationalization
+- **[SEO](https://nextjs.org/docs/app/building-your-application/optimizing/metadata)** - Search engine optimization
+- **[T3 Env](https://env.t3.gg/)** - Manage your environment variables with ease
+
+### 🐰 Data Fetching
+
+- **[tanstack/react-query](https://react-query.tanstack.com/)** – Hooks for fetching, caching and updating asynchronous data in React
+
+### 🐲 Global State Management
+
+- **[Zustand](https://zustand.surge.sh/)** – Small, fast and scalable state management for React
+
+### 🐒 UI
+
+- **[Tailwind CSS](https://tailwindcss.com/)** – Utility-first CSS framework for rapid UI development
+- **[Framer Motion](https://framer.com/motion)** – Motion library for React to animate components with ease
+- **[Lucide](https://lucide.dev/)** – Beautifully simple, pixel-perfect icons
+- **[next/font](https://nextjs.org/docs/basic-features/font-optimization)** – Optimize custom fonts and remove external network requests for improved performance
+- **[Next UI](https://nextui.org/)** – Make beautiful websites regardless of your design experience.
+- **[Aceternity UI](https://ui.aceternity.com/)** – Copy paste the most trending components and use them in your websites without having to worry about styling and animations.
+
+### 🐴 Code Quality
+
+- **[TypeScript](https://www.typescriptlang.org/)** – Static type checker for end-to-end type safety
+- **[Prettier](https://prettier.io/)** – Opinionated code formatter for consistent code style
+- **[ESLint](https://eslint.org/)** – Pluggable linter for Next.js and TypeScript
+- **[Husky](https://typicode.github.io/husky)** – Git hooks made easy
+
